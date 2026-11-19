@@ -1,0 +1,5 @@
+...................                                                      [100%]
+19 passed in 0.03s
+Line coverage: 32/32 (100.0%)
+Branch coverage: 22/22 (100.0%)
+Uncovered lines: []
